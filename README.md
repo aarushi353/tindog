@@ -1,1 +1,0 @@
-# BootstrapProject_tindog
